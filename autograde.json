@@ -1,0 +1,29 @@
+{
+    "output": "The autograder ran.",
+    "visibility": "visible",
+    "stdout_visibility": "visible",
+    "tests": [
+        {
+            "score": 100,
+            "max_score": 100,
+            "number": "1",
+            "output": "tests passed",
+            "tags": [],
+            "visibility": "visible"
+        },
+        {
+            "score": 100.0,
+            "max_score": 100,
+            "number": "2",
+            "output": "Your speedup is 143.00x.  The target speedup is 140.0x. Your score is the minimum of 100 and 143.00/140.0*100 = 100.0",
+            "tags": [],
+            "visibility": "visible"
+        }
+    ],
+    "leaderboard": [
+        {
+            "name": "speedup",
+            "value": 143
+        }
+    ]
+}
